@@ -1,4 +1,4 @@
-#LDAP服务由ladpadmin和ldapserver两个无状态服务组成
+# LDAP服务由ladpadmin和ldapserver两个无状态服务组成
 
 adpadmin服务（通过该服务的外部接口能访问LDAP服务）
 容器配置：
